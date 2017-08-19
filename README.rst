@@ -24,7 +24,11 @@ to
 
 3. Add some python scripts convert the wavefroms into SAC format.
 
+Notes
+-----
+sac.user0 : 
 
+sac.user1 : 
 
 Parameters
 ----------
@@ -49,7 +53,7 @@ DELT: float
 NT : int
 	Sampling number, must be FFT length, e.g., 1024, 2048, 4096
 	
-PR : float
+PR : float, unit might be s/km
 	Reduced slowness
 	
 STMIN : float
