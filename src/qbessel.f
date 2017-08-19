@@ -133,6 +133,7 @@ C     ERROR 1 EXIT
 C
    80 RETURN
       END
+C      COMPLEX FUNCTION BESHS0*16(X, IFAIL)
       COMPLEX FUNCTION BESHS0(X, IFAIL)
 C     COMPLEX*16 BESHS0
 C-----------------------------------------------------------------------
