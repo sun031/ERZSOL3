@@ -2,9 +2,9 @@
 "ew1.tx.z"                              File for T-X seismogram output
 "ew1.mod"                               Velocity model file
 "HS"                                    Surface Condition (HS,H1,WF,WS)
-  1                                  Number of slownesses (<2500)
-  0.00                                Minimum slowness
-  0.000001                                Maximum slowness
+  1
+  0.0
+  0.2
 0                                     Slowness taper plo (n samples)
 0                                      Slowness taper phi (n samples)
 "RI"                                    Wavelet input or Ricker (WA/RI)

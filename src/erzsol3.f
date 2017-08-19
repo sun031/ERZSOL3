@@ -338,6 +338,7 @@ C
 C                                            Calculate integration parameters
       CMX = 999.999
       IF(PMN.GT.0.0) CMX = 1.0/PMN
+	  IF(PMX.EQ.0.0) PMX = 0.0001
       CMN = 1.0/PMX
       RP = FLOAT(NRP)
       DPC = (PMX-PMN)/RP
