@@ -30,6 +30,16 @@ sac.user0 :
 
 sac.user1 : 
 
+Required input files
+--------------------
+*.cmd : input parameter file
+
+*.mod : velocity model
+
+*.dst : range and azimuth file
+
+*.wav : wavelet file
+
 Parameters
 ----------
 XS : float, array_like
