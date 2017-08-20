@@ -2,11 +2,11 @@
 Calculating the elastic response of a stratified medium
 *******************************************************
 
-I have changed the code to run more flexible and easier.
+The original code was written by Brian Kennett. I have slightly changed the code so that it can be compiled successfully. I also introduce some Python functions and scripts to run the ERZSOL3 more flexible and easier.
 
 Weijia Sun
 
-Updated on 19 August 2017
+Updated on 20 August 2017
 
 Changes
 -------
