@@ -6,6 +6,8 @@ The original code was written by Brian Kennett. I have slightly changed the code
 
 Weijia Sun
 
+Email: swj (at) mail.iggcas.ac.cn
+
 Updated on 20 August 2017
 
 Changes
