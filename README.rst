@@ -8,10 +8,10 @@ Weijia Sun
 
 Email: swj (at) mail.iggcas.ac.cn
 
-Updated on 20 August 2017
-
 Changes
 -------
+Updated on 20 August 2017
+
 1. Change line 136 of qbessel.f from
 
 >>> COMPLEX FUNCTION BESHS0*16(X, IFAIL)
@@ -25,6 +25,11 @@ to
 2. Change the output seismogram from unformatted to text format.
 
 3. Add some python scripts convert the wavefroms into SAC format.
+
+
+Updated on 24 Feburary 2018
+
+4. Enlarge array size from 600 to 3600.
 
 Notes
 -----
